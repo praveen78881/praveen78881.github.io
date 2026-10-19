@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.karyasetu.app",
+      "sha256_cert_fingerprints": [
+        "FC:A9:01:BD:6E:98:BF:3C:DC:0E:C1:73:C3:8B:9B:BA:48:F5:79:94:8F:EE:E7:59:3E:D5:B3:2A:AA:2E:F4:AD"
+      ]
+    }
+  }
+]
